@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Final_ETE_Todo/static/css/main.fc098916.css",
+    "main.js": "/Final_ETE_Todo/static/js/main.15350f59.js",
+    "index.html": "/Final_ETE_Todo/index.html",
+    "main.fc098916.css.map": "/Final_ETE_Todo/static/css/main.fc098916.css.map",
+    "main.15350f59.js.map": "/Final_ETE_Todo/static/js/main.15350f59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc098916.css",
+    "static/js/main.15350f59.js"
+  ]
+}
